@@ -11,4 +11,6 @@
 
 [STEP 6　深層学習と強化学習](chapter6_code.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/goberrying/mmlwpi6s/blob/prep4release/chapter6_code.ipynb)
 
+[付録:敵対的生成ネットワーク](chapter6_gan_code.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/goberrying/mmlwpi6s/blob/prep4release/chapter6_gan_code.ipynb)
+
 [^1]: 原著: Mastering Machine Learning with Python in Six Steps: A Practical Implementation Guide to Predictive Data Analytics Using Python, 2nd Edition, Apress, 2019
